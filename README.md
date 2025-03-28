@@ -1,1 +1,1 @@
-Developed for Stembot bu SuperDev
+Developed for Stembot by SuperDev
